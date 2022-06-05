@@ -1,0 +1,12 @@
+Belov Viktor Ivanovich
+HouseTel :	2230801
+WorkerTel :	2230801
+MobileTel :	89999999999
+Info :	Student
+
+Santos Karl Stepanovich
+HouseTel :	888888
+WorkerTel :	4444444
+MobileTel :	87777777777
+Info :	Student
+
